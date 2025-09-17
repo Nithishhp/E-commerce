@@ -1,0 +1,7 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <pattern id="dotNoise" width="4" height="4" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="0.5" fill="black" opacity="0.05"/>
+    <circle cx="4" cy="4" r="0.7" fill="black" opacity="0.03"/>
+  </pattern>
+  <rect width="100%" height="100%" fill="url(#dotNoise)"/>
+</svg>

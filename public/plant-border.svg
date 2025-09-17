@@ -1,0 +1,16 @@
+<!-- plant-border.svg -->
+<svg width="400" height="128" viewBox="0 0 400 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Repeating plant pattern -->
+  <path d="M0,128 L20,96 Q40,80 60,96 L80,128" stroke="#4a7c59" stroke-width="2" fill="#6b8c7d"/>
+  <path d="M80,128 L100,96 Q120,80 140,96 L160,128" stroke="#4a7c59" stroke-width="2" fill="#6b8c7d"/>
+  <path d="M160,128 L180,96 Q200,80 220,96 L240,128" stroke="#4a7c59" stroke-width="2" fill="#6b8c7d"/>
+  <path d="M240,128 L260,96 Q280,80 300,96 L320,128" stroke="#4a7c59" stroke-width="2" fill="#6b8c7d"/>
+  <path d="M320,128 L340,96 Q360,80 380,96 L400,128" stroke="#4a7c59" stroke-width="2" fill="#6b8c7d"/>
+  
+  <!-- Small leaf details -->
+  <path d="M30,112 Q35,105 40,112" stroke="#3a5c4a" stroke-width="1.5" fill="none"/>
+  <path d="M110,112 Q115,105 120,112" stroke="#3a5c4a" stroke-width="1.5" fill="none"/>
+  <path d="M190,112 Q195,105 200,112" stroke="#3a5c4a" stroke-width="1.5" fill="none"/>
+  <path d="M270,112 Q275,105 280,112" stroke="#3a5c4a" stroke-width="1.5" fill="none"/>
+  <path d="M350,112 Q355,105 360,112" stroke="#3a5c4a" stroke-width="1.5" fill="none"/>
+</svg>
